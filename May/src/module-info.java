@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author devik
- *
- */
-module May {
-}
